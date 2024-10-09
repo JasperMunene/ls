@@ -1,0 +1,16 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "content": "Hello Twitter World!"
+    },
+    {
+      "id": 2,
+      "content": "I love coding!"
+    },
+    {
+      "id": "414e",
+      "content": "Twiter clone"
+    }
+  ]
+}
